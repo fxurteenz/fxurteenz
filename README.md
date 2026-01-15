@@ -1,4 +1,4 @@
-<table border="0" style="width: 100%; border-collapse: none;">
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border: none; border-collapse: collapse;">
 <tr>
 <td style="width: 35%; vertical-align: middle; text-align: center;">
 <img src="./559461401_674416262383727_4670079398410819678_n.jpg" alt="Coding Cat" width="250" style="border-radius: 15px; transform: rotate(-5deg); box-shadow: 5px 5px 15px rgba(0,0,0,0.2);">

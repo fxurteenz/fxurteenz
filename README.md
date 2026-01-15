@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hello Foo  🥷🏽  !
+![ME !](https://i.postimg.cc/FFbXwLcS/559461401-674416262383727-4670079398410819678-n.jpg)
+👨🏽‍💻 *PiakPound*
+👁️ *Back-End*
+🤓 *Full-Stack*
+🌎 *Thailand, Udonthani 41000*
+🧑🏼‍🎓 *Buriram Rajaphat University*
+⌨️ Language Skills
+- JS 
+- TS 
+- PHP 
+- C 
+- C++ 
+- PYTHON 
+- LUA
 
-<!--
-**fxurteenz/fxurteenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📦 Tech
+ - Node.JS
+ - Bun
+ - MariaDB
+ - Tailwind
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 FrameWork 
+- Next.JS
+- Express.JS 
+- Nuxt.JS 
+- Laravel 
+- Elysia  

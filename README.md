@@ -3,7 +3,7 @@
     <td style="width: 35%; vertical-align: middle; text-align: center;">
       <img src="./559461401_674416262383727_4670079398410819678_n.jpg" alt="Coding Cat" width="250" style="border-radius: 15px; transform: rotate(-5deg); box-shadow: 5px 5px 15px rgba(0,0,0,0.2);">
     </td>
-    <td style="width: 65%; vertical-align: middle; padding-right: 20px;">
+    <td style="width: 65%; vertical-align: middle; text-align: center;">
       <h1 style="margin-bottom: 5px;">👨🏽‍💻 PiakPound</h1>
       <p style="margin-top: 0;">
         👁️ <i>Back-End</i> &nbsp;|&nbsp; 🤓 <i>Full-Stack</i><br>
